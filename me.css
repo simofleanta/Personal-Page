@@ -28,7 +28,7 @@ nav img{
 }
 
 @media screen and(max width:400px)
-    img{ 
+  nav .img{ 
         margin-top:20px;
 }
 
