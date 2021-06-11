@@ -35,7 +35,7 @@ nav img{
 }
 
 
-@media (max-width:700px){
+@media (max-width:400px){
     
 .me{
     flex-wrap: wrap;
