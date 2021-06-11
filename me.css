@@ -104,14 +104,6 @@ nav img{
 }
 
 
-@media (max-width:400px){
-    
-.me{
-    right: 30%;
-}
-}
-
-
 .hero-btn{
     display: inline-block;
     text-decoration: none;
