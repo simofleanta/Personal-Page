@@ -27,7 +27,7 @@ nav img{
     margin-top: 30px;
 }
 
-@media screen and(max width:400px)
+@media screen and(max-width:400px)
   nav .img{ 
         margin-top:20px;
 }
