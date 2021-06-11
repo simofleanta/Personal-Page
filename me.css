@@ -35,6 +35,14 @@ nav img{
 }
 
 
+@media (max-width:700px){
+    
+.me{
+    flex-wrap: wrap;
+}
+}
+
+
 .nav-links{
     flex: 1;
     text-align: right;
